@@ -3,7 +3,7 @@ An asynchronous scraper. Given a list of urls, returns all twitter handles for e
 
 Python 3, Flask, asyncio/aiohttp.
 
-![UI](https://raw.githubusercontent.com/saturnths/twitter-handles/master/screenshots/UI.png)
+![UI](https://raw.githubusercontent.com/saturnths/handles/master/screenshots/UI.png)
 
 ## Search options
 * **text**: ignore HTML tags and search within page content.
