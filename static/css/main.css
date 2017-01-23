@@ -1,0 +1,12 @@
+.container {
+  max-width: 730px;
+}
+
+.row-data {
+  width: 620px;
+  display: inline-block;
+}
+
+#results-container, #list {
+  display: none;
+}
